@@ -34,5 +34,8 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# project files
 getdata%2Fprojectfiles%2FUCI HAR Dataset.zip
 UCI HAR Dataset/
+result.csv

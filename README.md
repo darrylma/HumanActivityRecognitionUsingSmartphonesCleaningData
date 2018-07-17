@@ -51,45 +51,45 @@ To run the provided script, extract the zip archive in the root folder of this p
 
 ## Directory Structure
 
-./codebook.md
-./run_analysis.R
-./README.md
-./result.csv
-./.gitignore
-./UCI HAR Dataset
-./UCI HAR Dataset/test
-./UCI HAR Dataset/test/Inertial Signals
-./UCI HAR Dataset/test/Inertial Signals/body_acc_z_test.txt
-./UCI HAR Dataset/test/Inertial Signals/body_gyro_x_test.txt
-./UCI HAR Dataset/test/Inertial Signals/total_acc_z_test.txt
-./UCI HAR Dataset/test/Inertial Signals/body_gyro_y_test.txt
-./UCI HAR Dataset/test/Inertial Signals/total_acc_y_test.txt
-./UCI HAR Dataset/test/Inertial Signals/body_gyro_z_test.txt
-./UCI HAR Dataset/test/Inertial Signals/body_acc_y_test.txt
-./UCI HAR Dataset/test/Inertial Signals/total_acc_x_test.txt
-./UCI HAR Dataset/test/Inertial Signals/body_acc_x_test.txt
-./UCI HAR Dataset/test/subject_test.txt
-./UCI HAR Dataset/test/y_test.txt
-./UCI HAR Dataset/test/X_test.txt
-./UCI HAR Dataset/features.txt
-./UCI HAR Dataset/features_info.txt
-./UCI HAR Dataset/train
-./UCI HAR Dataset/train/y_train.txt
-./UCI HAR Dataset/train/Inertial Signals
-./UCI HAR Dataset/train/Inertial Signals/total_acc_x_train.txt
-./UCI HAR Dataset/train/Inertial Signals/total_acc_y_train.txt
-./UCI HAR Dataset/train/Inertial Signals/body_acc_z_train.txt
-./UCI HAR Dataset/train/Inertial Signals/body_acc_x_train.txt
-./UCI HAR Dataset/train/Inertial Signals/body_acc_y_train.txt
-./UCI HAR Dataset/train/Inertial Signals/total_acc_z_train.txt
-./UCI HAR Dataset/train/Inertial Signals/body_gyro_z_train.txt
-./UCI HAR Dataset/train/Inertial Signals/body_gyro_y_train.txt
-./UCI HAR Dataset/train/Inertial Signals/body_gyro_x_train.txt
-./UCI HAR Dataset/train/.subject_train.txt.swp
-./UCI HAR Dataset/train/subject_train.txt
-./UCI HAR Dataset/train/X_train.txt
-./UCI HAR Dataset/activity_labels.txt
-./UCI HAR Dataset/README.txt
+<br/>./codebook.md
+<br/>./run_analysis.R
+<br/>./README.md
+<br/>./result.csv
+<br/>./.gitignore
+<br/>./UCI HAR Dataset
+<br/>./UCI HAR Dataset/test
+<br/>./UCI HAR Dataset/test/Inertial Signals
+<br/>./UCI HAR Dataset/test/Inertial Signals/body_acc_z_test.txt
+<br/>./UCI HAR Dataset/test/Inertial Signals/body_gyro_x_test.txt
+<br/>./UCI HAR Dataset/test/Inertial Signals/total_acc_z_test.txt
+<br/>./UCI HAR Dataset/test/Inertial Signals/body_gyro_y_test.txt
+<br/>./UCI HAR Dataset/test/Inertial Signals/total_acc_y_test.txt
+<br/>./UCI HAR Dataset/test/Inertial Signals/body_gyro_z_test.txt
+<br/>./UCI HAR Dataset/test/Inertial Signals/body_acc_y_test.txt
+<br/>./UCI HAR Dataset/test/Inertial Signals/total_acc_x_test.txt
+<br/>./UCI HAR Dataset/test/Inertial Signals/body_acc_x_test.txt
+<br/>./UCI HAR Dataset/test/subject_test.txt
+<br/>./UCI HAR Dataset/test/y_test.txt
+<br/>./UCI HAR Dataset/test/X_test.txt
+<br/>./UCI HAR Dataset/features.txt
+<br/>./UCI HAR Dataset/features_info.txt
+<br/>./UCI HAR Dataset/train
+<br/>./UCI HAR Dataset/train/y_train.txt
+<br/>./UCI HAR Dataset/train/Inertial Signals
+<br/>./UCI HAR Dataset/train/Inertial Signals/total_acc_x_train.txt
+<br/>./UCI HAR Dataset/train/Inertial Signals/total_acc_y_train.txt
+<br/>./UCI HAR Dataset/train/Inertial Signals/body_acc_z_train.txt
+<br/>./UCI HAR Dataset/train/Inertial Signals/body_acc_x_train.txt
+<br/>./UCI HAR Dataset/train/Inertial Signals/body_acc_y_train.txt
+<br/>./UCI HAR Dataset/train/Inertial Signals/total_acc_z_train.txt
+<br/>./UCI HAR Dataset/train/Inertial Signals/body_gyro_z_train.txt
+<br/>./UCI HAR Dataset/train/Inertial Signals/body_gyro_y_train.txt
+<br/>./UCI HAR Dataset/train/Inertial Signals/body_gyro_x_train.txt
+<br/>./UCI HAR Dataset/train/.subject_train.txt.swp
+<br/>./UCI HAR Dataset/train/subject_train.txt
+<br/>./UCI HAR Dataset/train/X_train.txt
+<br/>./UCI HAR Dataset/activity_labels.txt
+<br/>./UCI HAR Dataset/README.txt
 
 ## Tidy Data
 
